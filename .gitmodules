@@ -2,5 +2,7 @@
 	path = src/realsense_ros_gazebo
 	url = https://github.com/curvin/realsense_ros_gazebo.git
 
-
+[submodule "ifopt"]
+	path = src/ifopt
+	url = https://github.com/ethz-adrl/ifopt
 	
