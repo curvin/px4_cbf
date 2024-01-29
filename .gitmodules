@@ -1,6 +1,6 @@
-# [submodule "realsense_ros_gazebo"]
-# 	path = src/realsense_ros_gazebo
-# 	url = https://github.com/curvin/realsense_ros_gazebo.git
+[submodule "realsense_ros_gazebo"]
+	path = src/realsense_ros_gazebo
+	url = https://github.com/curvin/realsense_ros_gazebo.git
 
 
 	
